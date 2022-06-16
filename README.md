@@ -1,7 +1,8 @@
 # CLV
 Dashboards:
-shorturl.at/hFR28
-shorturl.at/nEFL7
+https://rebrand.ly/ibmcloud002408
+
+https://rebrand.ly/ibmcloudf38ef3
 
 Customer Lifetime Value.
 There are 2 files in this repo
