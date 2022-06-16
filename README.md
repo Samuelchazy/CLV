@@ -1,6 +1,7 @@
 # CLV
-Dashboard A: shorturl.at/hFR28
-Dashboard B: shorturl.at/nEFL7
+Dashboards:
+shorturl.at/hFR28
+shorturl.at/nEFL7
 
 Customer Lifetime Value.
 There are 2 files in this repo
