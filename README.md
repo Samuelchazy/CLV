@@ -1,4 +1,7 @@
 # CLV
+Dashboard A: shorturl.at/hFR28
+Dashboard B: shorturl.at/nEFL7
+
 Customer Lifetime Value.
 There are 2 files in this repo
 1- RFM_Data_Exploration.ipynb: which is the file reading the initial raw data and then cleaning, exploring the data, and showing the spending patterns of clients.
